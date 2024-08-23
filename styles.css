@@ -1,0 +1,132 @@
+.cabecera{
+    color: rgb(255, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100;
+    text-align: center;
+    background-color: black;
+    padding: 25px;
+}
+.contenedor{
+    display:flex;
+}
+.izquierda{
+    flex: 1;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40;
+    text-align: left;
+    background-color: yellow;
+    padding: 25px;
+}
+.centro1{
+    flex: 1;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40;
+    text-align: center;
+    background-color: black;
+    padding: 25px;
+}
+.centro2{
+    flex: 1;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40;
+    text-align: center;
+    background-color: red;
+    padding: 25px;
+}
+
+.derecha{
+    flex: 2;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40;
+    text-align: right;
+    background-color: blue;
+    padding: 25px;
+}
+
+.izquierdaabajo{
+    flex: 1;
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40;
+    text-align: left;
+    background-color: black;
+    padding: 25px;
+}
+.centroabajo1{
+    flex: 2;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40;
+    text-align: center;
+    background-color: red;
+    padding: 25px;
+    
+}
+.centroabajo2{
+    flex: 1;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40;
+    text-align: center;
+    background-color: black;
+    padding: 25px;
+}
+.derechaabajo{
+    flex: 1;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40;
+    text-align: right;
+    background-color: yellow;
+    padding: 25px;
+}
+
+.izquierdaultimo{
+    flex: 1;
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40;
+    text-align: left;
+    background-color:black;
+    padding: 25px;
+}
+.centroultimo1{
+    flex: 1;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40;
+    text-align: center;
+    background-color:black;
+    padding: 25px;
+    
+}
+.centroultimo2{
+    flex: 2;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40;
+    text-align: center;
+    background-color:yellow;
+    padding: 25px;
+}
+.derechaultimo{
+    flex: 1;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40;
+    text-align: right;
+    background-color:blue;
+    padding: 25px;
+}
+.piedepagina{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200;
+    text-align: center;
+    background-color: black;
+    padding: 25px;
+}
